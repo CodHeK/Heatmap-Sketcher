@@ -1,4 +1,4 @@
-const writeString = '<3';
+const writeString = 'COOL<3';
 
 const colorSet = ['#2a6127', '#2a6127', '#7bc96f', '#c6e48b', '#ebedf0'];
 const hearColors = ['rgba(255, 0, 0, 1)', 'rgba(255, 0, 0, 0.5)', 'rgba(255, 0, 0, 0.2)', 'rgba(255, 0, 0, 0.7)']
