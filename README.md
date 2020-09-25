@@ -1,5 +1,5 @@
 # Heatmap-Sketcher
 
-Create heatmap graffiti using this using awesome chrome extension and be C O O L ! :sunglasses:
+Create github heatmap graffiti using this sketcher and be C O O L ! :sunglasses:
 
 ![ss](ss.png)
